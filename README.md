@@ -1,12 +1,16 @@
 <div align="center">
     <img src="./resources/hi.gif" width="100%">
 </div>
+&nbsp;
 
 <h1 align="center">Hey! <img src="./resources/Waving_Hand.gif" style="max-width:100"> Nice to see you.</h1>
+&nbsp;
 
 <h2 align="center">Software Engineer with ❤️ and 🔥</h2>
 
 > I've been an engineer professionally for 3 years, worked as a software engineer & team leader at different companies. Thanks to that, I learned a lot of skills and technologies with hands-on experience in front-end, back-end, and DevOps. Now, I am a DevOps & team leader at Viettel Solutions building [ePass](http://epass-vdtc.com.vn/) - the leading Electronic toll collection systems in Vietnam.
+
+<p>&nbsp;</p>
 
 <h2 align="center">🙋🏻‍♂️ &nbsp; Profiles</h2>
 
@@ -17,6 +21,7 @@
 &nbsp;<a href="https://www.facebook.com/hungnmm" target="_blank" rel="noreferrer"><img src="./resources/facebook.svg" width="30" height="30" /></a>&nbsp;
 &nbsp;<a href="http://www.instagram.com/hungnmm" target="_blank" rel="noreferrer"><img src="./resources/instagram.svg" width="30" height="30" /></a>&nbsp;
 </p>
+&nbsp;
 
 <h2 align="center">👨🏻‍💻 &nbsp; Interested technologies and topics</h2>
 
@@ -30,6 +35,7 @@
 &nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="./resources/typescript-colored.svg" width="30" height="30" alt="TypeScript" /></a>&nbsp;
 &nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./resources/javascript-colored.svg" width="30" height="30" alt="JavaScript" /></a>&nbsp;
 </p>
+&nbsp;
 
 <!--
 <h2 align="center">Skills</h2>
@@ -75,6 +81,7 @@
 </p>
 
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=hungnmm.hungnmm&left_text=Visitors&right_color=%2370a4fc" alt="visitors"></p>
+&nbsp;
 
 <hr>
 
