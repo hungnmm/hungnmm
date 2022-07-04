@@ -6,11 +6,11 @@
 <h1 align="center">Hey! <img src="./resources/Waving_Hand.gif" style="max-width:100"> Nice to see you.</h1>
 &nbsp;
 
-<p style="font-size: 1.5em; font-weight:bold" align="center">Software Engineer with ❤️ and 🔥</p>
+<p style="font-size: 2em !important; font-weight:bold !important" align="center">Software Engineer with ❤️ and 🔥</p>
 
 > I've been an engineer professionally for 3 years, worked as a software engineer & team leader at different companies. Thanks to that, I learned a lot of skills and technologies with hands-on experience in front-end, back-end, and DevOps. Now, I am a DevOps & team leader at Viettel Solutions building [ePass](http://epass-vdtc.com.vn/) - the leading Electronic toll collection systems in Vietnam.
 
-<p style="font-size: 1.5em; font-weight:bold" align="center">🙋🏻‍♂️ &nbsp; Profiles</p>
+<p style="font-size: 2em !important; font-weight:bold !important" align="center">🙋🏻‍♂️ &nbsp; Profiles</p>
 
 <p align="center"> 
 &nbsp;<a href="https://www.github.com/hungnmm" target="_blank" rel="noreferrer"><img src="./resources/github-dark.svg" width="30" height="30" /></a>&nbsp;
@@ -21,7 +21,7 @@
 </p>
 &nbsp;
 
-<p style="font-size: 1.5em; font-weight:bold" align="center">👨🏻‍💻 &nbsp; Interested technologies and topics</p>
+<p style="font-size: 2em !important; font-weight:bold !important" align="center">👨🏻‍💻 &nbsp; Interested technologies and topics</p>
 
 <p align="center"> 
 &nbsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./resources/react-colored.svg" width="30" height="30" alt="React" /></a>&nbsp;
@@ -36,7 +36,7 @@
 &nbsp;
 
 <!--
-<p style="font-size: 1.5em; font-weight:bold" align="center">Skills</p>
+<p style="font-size: 2em !important; font-weight:bold !important" align="center">Skills</p>
 
 <p align="center">
 &nbsp;<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="30" height="30" alt="C#" /></a>&nbsp;
@@ -63,7 +63,7 @@
 &nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="30" height="30" alt="Figma" /></a>&nbsp;
 </p> -->
 
-<p style="font-size: 1.5em; font-weight:bold" align="center">📊 &nbsp; GitHub Statistics</p>
+<p style="font-size: 2em !important; font-weight:bold !important" align="center">📊 &nbsp; GitHub Statistics</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hungnmm&show_icons=true&theme=tokyonight" alt="my github stats" height="50%" width="50%"/>&nbsp;&nbsp;&nbsp;
