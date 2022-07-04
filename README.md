@@ -1,5 +1,5 @@
-<div align="center" style="width: 100%">
-    <img src="./resources/hi.gif" style="width: 100%" width="100%">
+<div align="center">
+    <img src="./resources/hi.gif" width="100%">
 </div>
 
 <h1 align="center">Hey! <img src="./resources/Waving_Hand.gif" style="max-width:100"> Nice to see you.</h1>
