@@ -1,6 +1,6 @@
-<p align="center" style="width: 100%">
+<div align="center" style="width: 100%">
     <img src="./resources/hi.gif" style="width: 100%">
-</p>
+</div>
 
 <h1 align="center">Hey! <img src="./resources/Waving_Hand.gif" style="max-width:100"> Nice to see you.</h1>
 
