@@ -16,6 +16,7 @@
 
 <p align="center"> 
 &nbsp;<a href="https://www.github.com/hungnmm" target="_blank" rel="noreferrer"><img src="./resources/github-dark.svg" width="30" height="30" /></a>&nbsp;
+&nbsp;<a href="https://leetcode.com/hungnmm/" target="_blank" rel="noreferrer"><img src="./resources/leetcode.svg" width="30" height="30" /></a>&nbsp;
 &nbsp;<a href="https://www.linkedin.com/in/hungnmm" target="_blank" rel="noreferrer"><img src="./resources/linkedin.svg" width="30" height="30" /></a>&nbsp;
 &nbsp;<a href="https://www.twitter.com/hungnmm" target="_blank" rel="noreferrer"><img src="./resources/twitter.svg" width="30" height="30" /></a>&nbsp;
 &nbsp;<a href="https://www.facebook.com/hungnmm" target="_blank" rel="noreferrer"><img src="./resources/facebook.svg" width="30" height="30" /></a>&nbsp;
